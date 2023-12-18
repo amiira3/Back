@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b458b569-5bbe-47b6-afa9-cc841be9ab70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/FileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/repository/FileDBRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/FileStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/models/FileDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/repository/FileDBRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/FileStorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/AssureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/AssureApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/AssureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/AssureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/ConstatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/ConstatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/VehiculeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/controllers/VehiculeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Assure.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Assure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Constat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Constat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Vehicule.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/models/Vehicule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/repository/ConstatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/repository/ConstatRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/AssureSerrvice.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/AssureSerrvice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/AssureServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/AssureServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/ConstatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/ConstatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/ConstatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/ConstatServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/VehiculeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/VehiculeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/VehiculeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/java/com/example/assure/services/VehiculeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assure/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Assure/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/AssuroZeloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/AssuroZeloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/controllers/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/controllers/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/controllers/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/models/Dto/UserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/models/Dto/UserDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/PasswordServices.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/PasswordServices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/UserDetailsImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/UserDetailsImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/java/com/example/assurozelo/security/services/UserDetailsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssuroZelo/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AssuroZelo/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/java/com/apigateway/gateway/config/AuthGlobaleFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/java/com/apigateway/gateway/config/AuthGlobaleFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Assure" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Zidpzv37GKvpAGe1Ajc5PxPQ4F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/HP/Desktop/back",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.AssureApplication">
+    <configuration name="AssureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Assure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.assure.AssureApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.assure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssuroZeloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="AssuroZelo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.assurozelo.AssuroZeloApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.eureka.server.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.apigateway.gateway.GatewayApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.apigateway.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AssureApplication" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b458b569-5bbe-47b6-afa9-cc841be9ab70" name="Changes" comment="" />
+      <created>1702909021129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702909021129</updated>
+      <workItem from="1702909022534" duration="4508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
